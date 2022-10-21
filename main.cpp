@@ -2,16 +2,12 @@
 // Time(s):
 // Cost:
 
-#include <iostream>
-#include <string>
-#include <vector>
-
-extern int third();
+extern int reverse_trunk();
 
 //  -
 // Case  Result  Score   Run Time   Memory
 int main() {
-  third();
+  reverse_trunk();
 
   return 0;
 }
